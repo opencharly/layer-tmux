@@ -1,7 +1,5 @@
-version: 2026.232.0520
 tmux:
     candy:
-        version: 2026.144.1443
         description: |
             Terminal multiplexer providing persistent, detachable terminal sessions inside containers
             The tmux candy installs the tmux package (same name on RPM, DEB, and PAC
