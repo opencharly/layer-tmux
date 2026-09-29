@@ -51,7 +51,8 @@ created, confirmed live, and killed.
 
 ## Related
 
-- Owning skill: `/charly-infrastructure:tmux-layer`
+- Closest skill: `/charly-infrastructure:tmux-layer` — this repo carries no
+  per-repo owning skill (recorded against opencharly/opencharly#291)
 - `/charly-core:shell` — run tmux inside a container
 - `/charly-automation:tmux` — the typed persistent terminal / terminal-agent
   session surface backed by isolated tmux control-mode servers
